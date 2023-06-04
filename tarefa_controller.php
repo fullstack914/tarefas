@@ -4,9 +4,9 @@
 	//require "../../app_lista_tarefas/tarefa.service.php";
 	//require "../../app_lista_tarefas/conexao.php";
 	
-	require "../tarefa.model.php";
-	require "../arefa.service.php";
-	require "../conexao.php";
+	require "tarefa.model.php";
+	require "arefa.service.php";
+	require "conexao.php";
 
 
 	$acao = isset($_GET['acao']) ? $_GET['acao'] : $acao;
