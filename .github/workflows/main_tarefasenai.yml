@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'tarefasenai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA2688785BBA4CA98DDB5F3E9529A8A1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F9B053E2C00489294702974A41B60A8 }}
           package: .
