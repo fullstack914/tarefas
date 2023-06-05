@@ -1,7 +1,7 @@
 <?php
 
 	$acao = 'recuperarTarefasPendentes';
-	require 'tarefa_controller.php';
+	require 'controller/tarefa_controller.php';
 
 	/*
 	echo '<pre>';
